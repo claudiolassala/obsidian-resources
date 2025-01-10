@@ -1,6 +1,6 @@
 Notice that the query below also includes a "Copy Canvas JSON to Clipboard" button below it. With the content in the clipboard, just open a new canvas file into any text editor and paste the content of the clipboard onto it, and open the canvas in Obsidian.
 
-See [video](https://youtu.be/P0PR-TYxD1U) for more details.  
+See [video](https://youtu.be/r04I4gut10w) for more details.  
 
 
 ```dataviewjs
